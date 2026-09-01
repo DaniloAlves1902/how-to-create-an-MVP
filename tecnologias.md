@@ -66,6 +66,23 @@ Plataformas que provêm banco de dados, autenticação e tempo real de forma ger
 * **Vantagens:** Acelera o desenvolvimento de forma absurda. Você não precisa construir, hospedar e configurar um backend inteiro do zero. O Supabase é baseado em PostgreSQL (te dando todo o poder do SQL e RLS) e o Firebase usa NoSQL.
 * **Desvantagens:** *Vendor lock-in* (você fica dependente da infraestrutura de uma empresa terceira). Se a sua aplicação crescer e escalar muito rápido, os custos (especialmente no Firebase) podem aumentar de forma acentuada.
 
+## 5. Hospedagem e Deploy (Onde o MVP ganha vida)
+
+### Vercel / Netlify
+Plataformas focadas na experiência do desenvolvedor Frontend (PaaS).
+* **Vantagens:** Deploy incrivelmente simples (basta conectar o GitHub e ele faz tudo). Gratuito para a maioria dos MVPs iniciais. Integração perfeita com Next.js (a Vercel é a criadora do framework).
+* **Desvantagens:** Ambientes de backend pesados não rodam bem ou custam caro aqui. Focada primariamente em Frontend e funções *Serverless*.
+
+### Render / Heroku
+Plataformas como Serviço (PaaS) para hospedar Backend e Banco de Dados.
+* **Vantagens:** Muito mais fáceis de configurar do que um servidor cru. Cuidam de certificados SSL, roteamento e ambientes de forma automatizada.
+* **Desvantagens:** O Heroku removeu seu plano gratuito, e o Render tem um plano grátis razoável, mas os custos sobem rapidamente conforme você escala a memória e CPU.
+
+### VPS Tradicional (DigitalOcean, Hetzner, AWS EC2)
+Servidores Virtuais Privados ("um computador em nuvem só para você").
+* **Vantagens:** O melhor custo-benefício disparado. Você tem controle total sobre a infraestrutura e pode rodar qualquer coisa usando Docker. É a opção mais barata para escalar a longo prazo (como foi feito no caso real do Alivioo).
+* **Desvantagens:** Exige conhecimento técnico em Linux, redes e segurança. Se o servidor cair, você é o único responsável por consertar.
+
 ---
 
 ## 🎯 Conclusão: Qual escolher para o seu MVP?
@@ -138,6 +155,23 @@ A relational database (SQL).
 Platforms that provide managed databases, authentication, and real-time features.
 * **Pros:** Absurdly speeds up development. You don't need to build, host, and configure an entire backend from scratch. Supabase is built on PostgreSQL (giving you the power of SQL and RLS), and Firebase uses NoSQL.
 * **Cons:** *Vendor lock-in* (you become dependent on a third-party company's infrastructure). If your application grows and scales very fast, costs (especially in Firebase) can increase sharply.
+
+## 5. Hosting and Deployment (Where your MVP comes to life)
+
+### Vercel / Netlify
+Developer-experience focused platforms (PaaS) tailored for the Frontend.
+* **Pros:** Incredibly simple deployment (just connect GitHub and it does everything). Free for most early-stage MVPs. Seamless integration with Next.js (Vercel is the creator of the framework).
+* **Cons:** Heavy backend environments do not run well or are expensive here. Primarily focused on Frontend and Serverless functions.
+
+### Render / Heroku
+Platform as a Service (PaaS) for hosting Backends and Databases.
+* **Pros:** Much easier to configure than a raw server. They handle SSL certificates, routing, and environments automatically.
+* **Cons:** Heroku removed its free tier, and Render has reasonable free limits but charges a premium as you scale memory and CPU.
+
+### Traditional VPS (DigitalOcean, Hetzner, AWS EC2)
+Virtual Private Servers ("a computer in the cloud just for you").
+* **Pros:** By far the best cost-to-benefit ratio. You have total control over the infrastructure and can run anything using Docker. It is the cheapest option for long-term scaling (just like we did in the Alivioo real case).
+* **Cons:** Requires technical knowledge in Linux, networking, and security. If the server goes down, you are the only one responsible for fixing it.
 
 ---
 
