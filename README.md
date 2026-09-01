@@ -16,7 +16,10 @@ Este repositório é um guia completo e prático, criado com o propósito exclus
 Muitos desenvolvedores e empreendedores travam na hora de tirar uma ideia do papel. O objetivo aqui é focar na execução, na escolha das ferramentas certas (sem perder tempo com complexidade desnecessária) e em estratégias reais de vendas e validação.
 
 ## 🗂️ Índice de Conteúdos
+- [O Mindset do Fundador (MVP vs. MLP)](mindset-do-fundador.md)
+- [Acelerando o MVP com No-Code e IA](no-code-e-ia.md)
 - [Guia de Tecnologias para MVP](tecnologias.md)
+- [Segurança Básica para MVPs](seguranca-basica.md)
 - [Estudo de Caso: Arquitetura do Alivioo](case-real.md)
 
 ## 🧠 O Mindset do MVP
@@ -73,7 +76,10 @@ This repository is a comprehensive and practical guide, created with the exclusi
 Many developers and entrepreneurs get stuck when trying to bring an idea to life. The goal here is to focus on execution, choosing the right tools (without wasting time on unnecessary complexity), and applying real-world sales and validation strategies.
 
 ## 🗂️ Table of Contents
+- [The Founder's Mindset (MVP vs. MLP)](mindset-do-fundador.md)
+- [Accelerating the MVP with No-Code and AI](no-code-e-ia.md)
 - [MVP Technology Guide](tecnologias.md)
+- [Basic Security for MVPs](seguranca-basica.md)
 - [Case Study: Alivioo's Architecture](case-real.md)
 
 ## 🧠 The MVP Mindset
