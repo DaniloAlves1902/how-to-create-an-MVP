@@ -15,6 +15,22 @@ Este repositório é um guia completo e prático, criado com o propósito exclus
 
 Muitos desenvolvedores e empreendedores travam na hora de tirar uma ideia do papel. O objetivo aqui é focar na execução, na escolha das ferramentas certas (sem perder tempo com complexidade desnecessária) e em estratégias reais de vendas e validação.
 
+## 🗂️ Índice de Conteúdos
+- [Guia de Tecnologias para MVP](tecnologias.md)
+- [Estudo de Caso: Arquitetura do Alivioo](case-real.md)
+
+## 🧠 O Mindset do MVP
+Antes de começarmos, é preciso alinhar as expectativas:
+- **Feito é melhor que perfeito:** O objetivo do MVP não é lançar o produto dos sonhos, mas sim a versão mais enxuta que resolve o problema principal.
+- **Corte as "Nice-to-haves":** Se uma funcionalidade não é absolutamente essencial para o produto funcionar, deixe para depois.
+- **Fale com os usuários:** Código não valida produto. O que valida é o cliente usando (e de preferência, pagando).
+
+## 📊 Como Medir o Sucesso do seu MVP?
+Não lance no escuro. Você saberá que seu MVP deu certo quando:
+1. Pessoas reais (que você não conhece) começarem a usar.
+2. Usuários derem feedbacks construtivos sobre o que precisa melhorar.
+3. Você conquistar o seu **primeiro cliente pagante**.
+
 ## O que você vai aprender aqui?
 
 Este guia está sendo estruturado em três pilares principais:
@@ -55,6 +71,22 @@ Hello and welcome!
 This repository is a comprehensive and practical guide, created with the exclusive purpose of teaching you, step-by-step, **how to plan, develop, and launch an MVP (Minimum Viable Product) from absolute scratch**, and most importantly: **how to get your very first paying customer**.
 
 Many developers and entrepreneurs get stuck when trying to bring an idea to life. The goal here is to focus on execution, choosing the right tools (without wasting time on unnecessary complexity), and applying real-world sales and validation strategies.
+
+## 🗂️ Table of Contents
+- [MVP Technology Guide](tecnologias.md)
+- [Case Study: Alivioo's Architecture](case-real.md)
+
+## 🧠 The MVP Mindset
+Before we begin, we need to align our expectations:
+- **Done is better than perfect:** The goal of an MVP is not to launch your dream product, but the leanest version that solves the core problem.
+- **Cut the "Nice-to-haves":** If a feature is not absolutely essential for the product to work, leave it for later.
+- **Talk to your users:** Code does not validate a product. Customers using (and preferably paying for) it do.
+
+## 📊 How to Measure Your MVP's Success?
+Don't launch in the dark. You'll know your MVP is working when:
+1. Real people (that you don't know) start using it.
+2. Users provide constructive feedback on what needs improvement.
+3. You land your **first paying customer**.
 
 ## What will you learn here?
 
