@@ -15,19 +15,6 @@ Este repositório é um guia completo e prático, criado com o propósito exclus
 
 Muitos desenvolvedores e empreendedores travam na hora de tirar uma ideia do papel. O objetivo aqui é focar na execução, na escolha das ferramentas certas (sem perder tempo com complexidade desnecessária) e em estratégias reais de vendas e validação.
 
-## O Poder de um Ícone Carismático
-
-![Mascote Carismático](images/personagem-icone-carismatico.png)
-
-Antes mesmo de falarmos sobre código e vendas, vale destacar um detalhe que muitos ignoram: **a identidade e a conexão emocional**. 
-
-Aplicações de sucesso muitas vezes adotam personagens, mascotes ou ícones muito carismáticos (como o macaquinho do Mailchimp ou a coruja do Duolingo). Isso não é por acaso. Um personagem bem pensado:
-- **Gera empatia:** Torna um software que seria frio e técnico em algo amigável.
-- **Ajuda no Onboarding:** Um mascote guiando o usuário nos primeiros passos reduz o atrito e aumenta a retenção.
-- **Fortalece a Marca:** Facilita a lembrança da sua solução no mercado.
-
-Nunca subestime o poder de um bom design e de uma interface que "sorri" para o seu usuário!
-
 ## O que você vai aprender aqui?
 
 Este guia está sendo estruturado em três pilares principais:
@@ -68,19 +55,6 @@ Hello and welcome!
 This repository is a comprehensive and practical guide, created with the exclusive purpose of teaching you, step-by-step, **how to plan, develop, and launch an MVP (Minimum Viable Product) from absolute scratch**, and most importantly: **how to get your very first paying customer**.
 
 Many developers and entrepreneurs get stuck when trying to bring an idea to life. The goal here is to focus on execution, choosing the right tools (without wasting time on unnecessary complexity), and applying real-world sales and validation strategies.
-
-## The Power of a Charismatic Mascot
-
-![Charismatic Mascot](images/personagem-icone-carismatico.png)
-
-Before we even talk about code and sales, it is worth highlighting a detail that many ignore: **identity and emotional connection**.
-
-Successful applications often adopt very charismatic characters, mascots, or icons (like Mailchimp's monkey or Duolingo's owl). This is not by accident. A well-designed character:
-- **Generates empathy:** It turns a cold, technical software into something friendly.
-- **Helps with Onboarding:** A mascot guiding the user through their first steps reduces friction and increases retention.
-- **Strengthens Branding:** It makes your solution much easier to remember.
-
-Never underestimate the power of good design and an interface that "smiles" at your user!
 
 ## What will you learn here?
 
